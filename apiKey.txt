@@ -1,1 +1,2 @@
 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
+Open AI deletes a key after its found in public github repo
