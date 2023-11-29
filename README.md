@@ -6,17 +6,17 @@ An application that transforms user-system interaction on Windows. Interprets us
 
 - AppZero employs OpenAI's ChatGPT API to interpret the request, understanding the intent and the necessary actions to fulfill it.
 
--The application then generates a JSON response that outlines the plan of action. This includes a user-friendly summary and the specific CMD commands that will execute the task.
+- The application then generates a JSON response that outlines the plan of action. This includes a user-friendly summary and the specific CMD commands that will execute the task.
 
-Command Execution: AppZero executes the provided CMD command in the Windows Command Prompt environment, carrying out the user's request.
+- AppZero executes the provided CMD command in the Windows Command Prompt environment, carrying out the user's request.
 
-Email Integration (if required): Should the task involve sending an email, AppZero utilizes a built-in email functionality to draft and send the message directly from the command line interface.
+- Should the task involve sending an email, AppZero utilizes a built-in email functionality to draft and send the message directly from the command line interface.
 
-Feedback Loop: The application provides feedback to the user in the form of terminal outputs, which can be used for further inputs or confirmation of task completion.
+- The application provides feedback to the user in the form of terminal outputs, which can be used for further inputs or confirmation of task completion.
 
-Final Check: AppZero determines if the task is completed (Final = True) or if additional steps are required (Final = False). If the task is not final, the process loops back to step 3.
+- ChatGPT determines if the task is completed and sets variable (Final = True) or if additional steps are required (Final = False). If the task is not final, the process loops back to step 3.
 
-User Confirmation: Once the task is final, AppZero confirms with the user that their request has been satisfied.
+- Once the task is final, AppZero confirms with the user that their request has been satisfied.
 
 
 ### Simplified workflow 
