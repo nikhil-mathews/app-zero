@@ -2,6 +2,7 @@
 
 An application that transforms user-system interaction on Windows. Interprets user commands and translates them into CMD instructions, streamlining the execution of complex computer tasks with simple, natural language inputs. The app's automation extends from routine file management to sending emails directly via the command line, encapsulating several system operations.
 
+### Simplified workflow 
 <img width="1345" alt="flowchart" src="https://github.com/nikhil-mathews/app-zero/assets/52326197/e97ce8b7-18eb-4f87-95a5-d4c176631c8e">
 
 
