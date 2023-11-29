@@ -2,7 +2,7 @@
 
 An application that transforms user-system interaction on Windows. Interprets user commands and translates them into CMD instructions, streamlining the execution of complex computer tasks with simple, natural language inputs.
 
-- The user inputs a request into AppZero using natural language. This request can range from file management tasks to system queries or the need to send an email.
+- The user inputs a request into AppZero using natural language (written or spoken english). This request can range from file management tasks to system queries or the need to send an email.
 
 - AppZero employs OpenAI's ChatGPT API to interpret the request, understanding the intent and the necessary actions to fulfill it.
 
