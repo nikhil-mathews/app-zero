@@ -1,0 +1,47 @@
+Name: Sophia Patel
+Email: sophia.patel@email.co
+
+
+
+Objective:
+Dedicated and results-driven DevOps Engineer with over 5 years of experience in automating, designing, and optimizing critical deployments in AWS, Azure, and hybrid cloud environments. Adept at collaborating with cross-functional teams to drive system improvements and achieve efficiency. Seeking a challenging role at XYZ Tech to further enhance the company's infrastructure and deployment strategies.
+
+Professional Experience:
+
+Senior DevOps Engineer - ABC Tech Solutions, San Francisco, CA
+June 2020 - Present
+
+Led a team of 3 junior DevOps engineers in automating deployment processes, resulting in a 50% reduction in deployment times.
+Implemented containerization using Docker, reducing application inconsistencies across different environments.
+Collaborated with the development team to optimize CI/CD pipelines using Jenkins, leading to a 30% increase in deployment frequency.
+DevOps Engineer - TechWave Inc., Palo Alto, CA
+January 2017 - May 2020
+
+Managed AWS infrastructure, including EC2, S3, and RDS, ensuring 99.9% uptime.
+Developed Infrastructure as Code (IaC) scripts using Terraform to automate cloud provisioning and scaling.
+Collaborated with the cybersecurity team to ensure best practices in cloud security and compliance.
+Junior DevOps Engineer - StartTech Ventures, San Jose, CA
+June 2015 - December 2016
+
+Assisted in the migration of on-premises applications to AWS, resulting in a 40% reduction in infrastructure costs.
+Maintained version control systems, primarily Git, and resolved merge conflicts for the development team.
+Monitored application and infrastructure health using tools like Grafana and Prometheus.
+Education:
+
+Bachelor of Science in Computer Engineering
+Tech University, Los Angeles, CA
+Graduated May 2015
+
+Certifications:
+
+AWS Certified DevOps Engineer – Professional
+Certified Kubernetes Administrator (CKA)
+Skills:
+
+Cloud Platforms: AWS, Azure
+Containerization: Docker, Kubernetes
+CI/CD: Jenkins, Travis CI
+Infrastructure as Code: Terraform, Ansible
+Scripting: Python, Bash
+Monitoring: Grafana, Prometheus
+Languages: English (Native), Spanish (Fluent)

@@ -1,0 +1,36 @@
+Name: Zoe Kim
+Email: zoe.kim@postmail.org
+
+Objective:
+Dedicated and innovative Mobile App Developer with over 5 years of experience in designing and implementing mobile applications for both iOS and Android platforms. Proficient in Swift, Kotlin, and React Native. Seeking a challenging role at XYZ Tech Solutions to leverage my skills and contribute to the development of cutting-edge mobile applications.
+
+Professional Experience:
+
+Senior Mobile App Developer - ABC Tech Solutions, Tech City
+June 2019 - Present
+
+Led a team of 5 developers in creating and maintaining over 10 mobile applications, resulting in a 30% increase in user engagement.
+Collaborated with UI/UX designers to ensure seamless and user-friendly application interfaces.
+Implemented agile methodologies, reducing the app development cycle by 20%.
+Mobile App Developer - DEF Mobile Innovations, Tech Town
+January 2017 - May 2019
+
+Developed 3 top-rated applications on the App Store and Google Play, each with over 100,000 downloads.
+Identified and resolved over 200 application bugs, improving app performance by 15%.
+Collaborated with cross-functional teams to integrate third-party APIs, enhancing app functionality.
+Education:
+
+Bachelor of Science in Computer Science - Tech University, Tech City
+Graduated May 2016
+
+Relevant Courses: Mobile App Development, User Interface Design, Advanced Programming Concepts.
+Technical Skills:
+
+Languages: Swift, Kotlin, JavaScript, Java
+Frameworks: React Native, Flutter, Xamarin
+Tools: Xcode, Android Studio, Git, Firebase
+Certifications:
+
+Certified iOS App Developer - Apple Developer Academy, 2017
+React Native Certification - Online Tech Courses, 2018
+Languages: English (Native), Spanish (Fluent)
