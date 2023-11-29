@@ -2,9 +2,9 @@
 
 An application that transforms user-system interaction on Windows. Interprets user commands and translates them into CMD instructions, streamlining the execution of complex computer tasks with simple, natural language inputs.
 
--The user inputs a request into AppZero using natural language. This request can range from file management tasks to system queries or the need to send an email.
+- The user inputs a request into AppZero using natural language. This request can range from file management tasks to system queries or the need to send an email.
 
--AppZero employs OpenAI's ChatGPT API to interpret the request, understanding the intent and the necessary actions to fulfill it.
+- AppZero employs OpenAI's ChatGPT API to interpret the request, understanding the intent and the necessary actions to fulfill it.
 
 -The application then generates a JSON response that outlines the plan of action. This includes a user-friendly summary and the specific CMD commands that will execute the task.
 
@@ -22,8 +22,8 @@ User Confirmation: Once the task is final, AppZero confirms with the user that t
 ### Simplified workflow 
 <img width="1345" alt="flowchart" src="https://github.com/nikhil-mathews/app-zero/assets/52326197/e97ce8b7-18eb-4f87-95a5-d4c176631c8e">
 
-Voice to text done locally using Whisper AI
-[How to](youtube.com/watch?v=ABFqbY_rmEk)
+Voice to text done locally using Whisper AI.
+**youtube.com/watch?v=ABFqbY_rmEk**
 
 
 <img width="1015" alt="image" src="https://github.com/nikhil-mathews/app-zero/assets/52326197/c0063045-5419-4455-8650-656a8fcba283">
