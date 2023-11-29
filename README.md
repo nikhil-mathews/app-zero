@@ -25,7 +25,7 @@ An application that transforms user-system interaction on Windows. Interprets us
 Voice to text done locally using Whisper AI.
 **youtube.com/watch?v=ABFqbY_rmEk**
 
-###Future upgrades
+### Future upgrades
 Since every generated approach and answer is unique and sometimes wrong, we could have multiple threads each making a its own API call simultaneously and then all their answers evaluated and by a master to get a more "democratic" and correct one.
 The downside is that it more than doubles the time taken to get a final response.
 <img width="1015" alt="image" src="https://github.com/nikhil-mathews/app-zero/assets/52326197/c0063045-5419-4455-8650-656a8fcba283">
